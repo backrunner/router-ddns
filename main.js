@@ -11,8 +11,8 @@ log4js.configure({
         },
         task: {
             type: "dateFile",
-            filename: "./logs/log",
-            pattern: "_yyyy-MM-dd.log",
+            filename: "./logs/runtime",
+            pattern: "yyyy-MM-dd.log",
             encoding: 'utf-8',
             alwaysIncludePattern: true,
         }
