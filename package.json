@@ -1,0 +1,16 @@
+{
+  "name": "routerddns",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "BackRunner",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "^1.7.2",
+    "log4js": "^5.1.0",
+    "request": "^2.88.0"
+  }
+}

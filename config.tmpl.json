@@ -1,0 +1,8 @@
+{
+    "gateway": "192.168.1.1",
+    "router": "tplink",
+    "router_password": "",
+    "domain": "",
+    "sub_domain": "",
+    "api_token": ""
+}
