@@ -1,7 +1,7 @@
 {
   "name": "routerddns",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "将路由器的wan口IP提交到DNSPod实现DDNS",
   "main": "main.js",
   "scripts": {
     "test": "node main.js"
